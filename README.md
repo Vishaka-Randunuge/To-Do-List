@@ -13,7 +13,7 @@ Made with HTML,CSS,Javascript
 
 <h3>application with tasks completed option</h3>
 <h4>Tasks can be checked and moved to the completed tasks section<h4>
-<img src="https://github.com/Vishaka-Randunuge/To-Do-List/blob/main/to-do-list-complte.jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/Vishaka-Randunuge/To-Do-List/blob/main/to-do-list-complete.jpg" alt="Alt text" title="Optional title">
 
   
   
